@@ -12,6 +12,6 @@ def reverse_array(arr):
     return arr
 
 
-my_list = [1, 2, 3, 4, 5]
+my_list = [1, 2, 21,45,11,3, 4, 5]
 reverse_array(my_list)
 print(my_list) 
